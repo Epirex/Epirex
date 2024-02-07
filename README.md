@@ -1,8 +1,8 @@
 <h1>“The best solution to a problem is usually the easiest one.” – GLaDOS</h1>
 
-<h1 align="center">Hi 👋, I'm Esteban Guzzo (Epirex)</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epirex&label=Profile%20views&color=0e75b6&style=flat" alt="epirex" /> </p>
+
+<p>Hi 👋, I'm Esteban Guzzo (Epirex)</p>
 
 - 🔭 I’m currently working on **Supranet.ar**
 
